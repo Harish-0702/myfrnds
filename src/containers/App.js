@@ -37,7 +37,7 @@ class App extends Component {
         else{
             return (
                 <div className="tc">
-                    <h1> My Robo Friends</h1>
+                    <h1 className="app-title">Mechatron UI</h1>
                     <SearchBox searchChange = { this.onSearchChange }/>
                     <Scroll>
                         <CardList Frnds={ filteredFrnds } />

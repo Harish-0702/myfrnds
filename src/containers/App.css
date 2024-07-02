@@ -3,8 +3,17 @@
     src: url('./Astro.ttf');
 }
 
-h1 {
+/* h1 {
     font-family: 'Astro';
     font-size: 3rem;
     color: cyan;
-}
+} */
+
+.app-title {
+    margin-top: 20px;
+    margin-bottom: auto;
+    font-family: 'Bigelow Rules';
+    font-size: 80px;
+    color: #0ccac4;
+    text-align: center;
+  }
