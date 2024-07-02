@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/myfrnds/static/css/main.ad96467e.css",
-    "main.js": "/myfrnds/static/js/main.febc08be.js",
-    "static/js/787.c2c8a56a.chunk.js": "/myfrnds/static/js/787.c2c8a56a.chunk.js",
-    "static/media/Astro.ttf": "/myfrnds/static/media/Astro.5d5a98b877d8325cae38.ttf",
-    "index.html": "/myfrnds/index.html",
-    "main.ad96467e.css.map": "/myfrnds/static/css/main.ad96467e.css.map",
-    "main.febc08be.js.map": "/myfrnds/static/js/main.febc08be.js.map",
-    "787.c2c8a56a.chunk.js.map": "/myfrnds/static/js/787.c2c8a56a.chunk.js.map"
+    "main.css": "/mechatron-ui/static/css/main.9d22459e.css",
+    "main.js": "/mechatron-ui/static/js/main.4bef7f31.js",
+    "static/js/787.40824de6.chunk.js": "/mechatron-ui/static/js/787.40824de6.chunk.js",
+    "static/media/Astro.ttf": "/mechatron-ui/static/media/Astro.5d5a98b877d8325cae38.ttf",
+    "index.html": "/mechatron-ui/index.html",
+    "main.9d22459e.css.map": "/mechatron-ui/static/css/main.9d22459e.css.map",
+    "main.4bef7f31.js.map": "/mechatron-ui/static/js/main.4bef7f31.js.map",
+    "787.40824de6.chunk.js.map": "/mechatron-ui/static/js/787.40824de6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad96467e.css",
-    "static/js/main.febc08be.js"
+    "static/css/main.9d22459e.css",
+    "static/js/main.4bef7f31.js"
   ]
 }
